@@ -11,3 +11,6 @@ Saved/
 *.log
 *.tmp
 *.vsconfig
+Content/STF
+Content/__ExternalObjects__
+Content/__ExternalActors__
